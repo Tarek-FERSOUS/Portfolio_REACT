@@ -1,6 +1,6 @@
 # My Portfolio
 
-This is a personal portfolio project for Tarek FERSOUS, showcasing his skills, education, and experience in software development.
+This is a personal portfolio project for Tarek FERSOUS, showcasing skills, education, and experience in CS and other fields.
 
 ## Project Structure
 
